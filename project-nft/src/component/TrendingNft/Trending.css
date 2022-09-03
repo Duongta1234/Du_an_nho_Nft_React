@@ -1,0 +1,22 @@
+.trending_nft{
+    padding: 108px 0px;
+    position: relative;
+}
+.heading-gradient{
+    font-size: 46px;
+    font-weight: 700;
+   margin-bottom: 36px;
+    padding: 24px;
+
+}
+.top_rgb_right_1{
+    height: 550px;
+    width: 550px;
+    background-color: rgba(143, 0, 255, 0.65);
+    filter: blur(160.58px);
+    position: absolute;
+    z-index: -99;
+    left: 50%;
+   
+    transform: translate(-50%);
+}

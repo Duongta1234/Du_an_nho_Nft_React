@@ -1,0 +1,48 @@
+.trending-card{
+    flex-direction: column;
+}
+.tc-inner-wrapper{
+    padding: 2px;
+    background: linear-gradient(#e66465, #9198e5);
+    border-radius: 18px;
+}
+.tc-content{
+    background: linear-gradient(#e66465, #9198e5);
+    border-radius: 18px;
+    padding: 5px;
+}
+.tc-content img{
+    border-radius: 10px;
+}
+.tc-user-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    width: 100%;
+    margin:16px 0px
+}
+.tc-ui-left{
+    display: flex;
+    flex:1;
+}
+.tc-user-logos{
+  height: 60px;
+  border-radius: 8px;
+  margin-right:12px ;
+}
+.tc-ui-user_name{
+    font-size: 18px;
+    font-weight: 600px;
+}
+.tc-ui-user-handles{
+    font-size: 14px;
+    opacity: 0.7;
+}
+.tc-solana{
+    height: 36px;
+    margin-right: 18px;
+}
+.tn-button{
+    margin-top:36px;
+
+}

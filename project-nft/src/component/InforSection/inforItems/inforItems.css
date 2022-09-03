@@ -1,0 +1,19 @@
+.Infor-Item1{
+   flex-direction: column;
+    text-align: center;
+    margin: 0px 28px;
+    width: 90%;
+    
+
+}
+.infor-Item-title{
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 18px;
+    height: 99px;
+}
+.infor-Item-description{
+    margin-top: 18px;
+    font-size: 18px;
+}
+
